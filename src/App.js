@@ -4,7 +4,7 @@ import Mega from './components/mega/Mega'
 
 export default () => (
   <SafeAreaView style={style.App}>
-    <Mega qtdNumeros={7} />
+    <Mega qtdNumeros={5} />
   </SafeAreaView>
 )
 
